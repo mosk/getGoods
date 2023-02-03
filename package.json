@@ -1,0 +1,15 @@
+{
+  "name": "make-goods",
+  "version": "1.0.0",
+  "description": "App to get goods from url",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihail Moskalev",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
